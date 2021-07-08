@@ -4,6 +4,8 @@ import profilepic from '../imgs/alix.jpg';
 import Social from '../components/Social'
 import UserHeader from '../components/UserHeader';
 import Clock from '../components/Clock';
+import SnakeApp from '../snakeGame/SnakeIndex';
+import Game from './Game';
 
 const ColoredLine = ({ color }) => (
     <hr
@@ -22,12 +24,17 @@ class Home extends Component {
             <div className="condiv home">
                 <div><UserHeader /></div>
                 <ColoredLine />
-                <h3>Alix Lieblich's Portfolio Site</h3>
-                <p>Fun bit of React:</p>
+                <h3>Welcome to my Portfolio! Feel free to stay a while!</h3>
+                <ColoredLine />
+                <p>React Digital Clock:</p>
                 <div><Clock/></div>
-            <img src={profilepic} alt="ProfilePic" className="profilepic"></img>
             <br></br>
-            <ReactTypingEffect className="typingeffect" text={["Hi, I'm Alix Lieblich!",'I am a Software Engineer']} speed={100} eraseDelay={700}/>
+            <br></br>
+            <ColoredLine />
+            <p>React Tic Tac Toe</p>
+            <Game />
+            {/* <div><SnakeApp /></div> */}
+            {/* <ReactTypingEffect className="typingeffect" text={["Hi, I'm Alix Lieblich!",'I am a Software Engineer']} speed={100} eraseDelay={700}/> */}
             <Social />
             </div>
             )

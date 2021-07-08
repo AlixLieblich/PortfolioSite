@@ -23,11 +23,11 @@ class About extends Component {
                 <ReactTypingEffect className="typingeffect" text={["Hi, I'm Alix Lieblich!",'I am a Software Engineer']} speed={100} eraseDelay={700}/> */}
             <br></br>
             <ColoredLine />
-            <h1 className="subtopic">About Me</h1>
+            <h1 className="subtopic">About Alix</h1>
             <ColoredLine />
             <h2>Hey there!</h2>
             <br></br>
-            <h2>I'm Alix Lieblich</h2>
+            <h2>Alix Lieblich</h2>
             {/* <br></br> */}
             <h3>Full Stack Software Engineer</h3>
             <br></br>

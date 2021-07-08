@@ -42,7 +42,7 @@ export default function SocialFollow() {
       <a href="https://twitter.com/AlixLieblich" className="twitter social">
         <FontAwesomeIcon icon={faTwitter} size="2x" />
       </a>
-      <h3>Built with 💙 with React</h3>
+      <h3>Built with 💙 using React.</h3>
     </div>
   );
 }

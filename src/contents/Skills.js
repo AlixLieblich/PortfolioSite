@@ -27,7 +27,7 @@ class Skills extends Component {
             <div className="condiv skills">
                 <div><UserHeader /></div>
                 <div className="condiv-bullets">
-            <h1 className="subtopic">My Skills</h1>
+            <h1 className="subtopic">Skills</h1>
             <ColoredLine />
             <br>
             </br>

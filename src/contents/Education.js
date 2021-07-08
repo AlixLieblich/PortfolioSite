@@ -23,7 +23,7 @@ class Education extends Component {
             <div><UserHeader /></div>
             <br></br>
             <ColoredLine />
-                <h1 className="subtopic">My Education</h1>
+                <h1 className="subtopic">Education</h1>
             <ColoredLine />
             <img src={hb} alt="HB" className="logo"></img>
             <Widecard title="Certificate in Software Engineering" where="Hackbright Academy" from="February" to="May 2021"/>

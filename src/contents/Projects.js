@@ -21,10 +21,10 @@ class Projects extends Component {
                 <div><UserHeader /></div>
                 <br></br>
                 <ColoredLine />
-            <h1 className="subtopic">My Projects</h1>
+            <h1 className="subtopic">Alix's Projects</h1>
             <br></br>
             <ColoredLine />
-            <h2>National Treasures</h2>
+            <h1>National Treasures</h1>
             <h3>May 2021</h3>
             <h4>Hackbright Academy Fullstack Capstone Project</h4>
 
@@ -33,7 +33,7 @@ class Projects extends Component {
             <p>National Treasures gives users a tool and community in which to pursue hiking endeavors throughout the United States National Parks. With the usage of SQLAlchemy queries, users have the option to make friends, make hiking goals, and find trails to add to trail wishlists and hiking logs. Using the Twilio, Google Maps, and WeatherMap API's, users are able to receive text message information about their wishlist trails and view the current weather and location of trails of interest. By using National Treasures, users are able to to organize their National Park experience in a one stop shop web application.
             </p>
             <br></br>
-            <h4>Tech Stack Used</h4>
+            <h4>Tech Stack</h4>
             <p>Python, Javascript, HTML, CSS, SQLAlchemy, Bootstrap, Flask, Flask Login, PostgresSQL, Jinja</p>
             <br></br>
             <h4>National Treasures Demo</h4>
@@ -42,7 +42,7 @@ class Projects extends Component {
                     url="https://www.youtube.com/watch?v=mHVrbK1xJJw"
                 />
             </div>
-            <h4>Deployment for National Treasures under construction!</h4>
+            <h4>Deployment coming soon!</h4>
             <h4> Visit the GitHub Repo Here:</h4>
             <a
               href={`https://github.com/AlixLieblich/hb-fullstack-hike-project`}
@@ -55,7 +55,26 @@ class Projects extends Component {
             <br></br>
 
             <ColoredLine />
-            <h2>Astronomical Images Reprojection</h2>
+            <h1>Image Repository Project</h1>
+            <h3>May 2021</h3>
+            <h4>Project</h4>
+            <br></br>
+            <h4>Project Description</h4>
+            <p>Designed a site for users to share images taken in National Parks with ability to search the database by keyword about images.</p>
+            <br></br>
+            <br></br>
+            <h4>Tech Stack</h4>
+            <p>Python, Javascript, HTML, CSS, SQLAlchemy, Bootstrap, Flask, Flask Login, PostgresSQL, Jinja</p>
+            <a
+              href={`https://github.com/AlixLieblich/image_repo`}
+              target="_blank"
+              rel="noreferrer noopener"
+            >Image Repo</a>
+            <br></br>
+            <br></br>
+
+            <ColoredLine />
+            <h1>Astronomical Images Reprojection</h1>
             <h3>Fall 2020</h3>
             <h4>Astronomy class Python project</h4>
             <br></br>
@@ -75,7 +94,7 @@ class Projects extends Component {
             <br></br>
 
             <ColoredLine />
-            <h2>Photosynthesis Bioinformatics Research Project</h2>
+            <h1>Photosynthesis Bioinformatics Research Project</h1>
             <h3>January- December 2020</h3>
             <h4>Undergraduate Research Project studying evolution of CAM photosynthesis.</h4>
             <br></br>
@@ -86,7 +105,7 @@ class Projects extends Component {
             <p>R, RAxML, REVBAYES</p>
             <br></br>
             <h4>Published Paper:</h4>
-            <p>Under construction, will be published in the near future!</p>
+            <p>Coming Soon!</p>
             <br></br>
             <h4>GitHub Repo:</h4>
             <a
@@ -98,7 +117,7 @@ class Projects extends Component {
             <br></br>
 
             <ColoredLine />
-            <h2>Evolution of Distant Galaxies Research Project</h2>
+            <h1>Evolution of Distant Galaxies Research Project</h1>
             <h3>Fall 2020</h3>
             <h4>Undergraduate Research Project analyzing data to study the evolution of distant galaxies.</h4>
             <br></br>
@@ -109,42 +128,60 @@ class Projects extends Component {
             <p>Python, Astropy, RADEX, SEDFitter</p>
             <br></br>
             <h4>Published Paper:</h4>
-            <p>Under construction, will be published in the near future!</p>
+            <p>Coming Soon!</p>
             <br></br>
 
             <ColoredLine />
-            <h2>Choose Your Own Adventure Terminal Game</h2>
+            <h1>Choose Your Own Adventure Terminal Game</h1>
             <h3>February 2021</h3>
             <h4>Hackbright Acadmey Prep Course Final Project</h4>
+            <br></br>
+            <h4>Tech Stack</h4>
+            <br></br>
+            <p>Python, Terminal</p>
+            <h4>GitHub Repo:</h4>
             <a
               href={`https://github.com/AlixLieblich/hb-PrepCourse-FinalProject-ChooseYourOwnAdventureGame`}
               target="_blank"
               rel="noreferrer noopener"
             >Terminal Game</a>
+
             <br></br>
             <br></br>
 
             <ColoredLine />
-            <h2>Java Donkey Kong Game</h2>
+            <h1>Java Donkey Kong Game</h1>
             <h3>Spring 2018</h3>
             <h4>Final project for ICS College course.</h4>
+            <br></br>
+            <h4>Tech Stack</h4>
+            <p>Java</p>
+            <br></br>
+            <h4>GitHub Repo:</h4>
             <a
               href={`https://github.com/AlixLieblich/ICS-111-JavaGame`}
               target="_blank"
               rel="noreferrer noopener"
             >Java Game</a>
+            
             <br></br>
             <br></br>
             
             <ColoredLine />
-            <h2>This Portfolio Site!</h2>
+            <h1>This Portfolio Site!</h1>
             <h3>July 2021</h3>
             <h4>Made with love using React!</h4>
+            <br></br>
+            <h4>Tech Stack</h4>
+            <p>React</p>
+            <br></br>
+            <h4>GitHub Repo:</h4>
             <a
-              href={`https://github.com/AlixLieblich/hb-fullstack-hike-project`}
+              href={`https://github.com/AlixLieblich/PortfolioSite`}
               target="_blank"
               rel="noreferrer noopener"
-            ></a>
+            >Portfolio Repo</a>
+            <br></br>
             <Social />
             </div>
             )
