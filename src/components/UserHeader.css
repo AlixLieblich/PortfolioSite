@@ -1,0 +1,15 @@
+.profilepic {
+    width: 200px;
+    margin-top: 10px;
+    margin-right: 4rem;
+    border-radius: 20px;
+    display:inline-block;
+    /* margin-right:10px; */
+}
+
+.header-text {
+    /* display: flex; */
+    /* display:inline-block; */
+    /* justify-content: center; */
+    align-items: center;
+}
