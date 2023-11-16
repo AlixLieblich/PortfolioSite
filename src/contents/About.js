@@ -42,6 +42,7 @@ class About extends Component {
             <p>mhm</p>
             <h4>Tech Experience</h4>
             <p>For her Biology research projects, Alix learned R and the programs RevBayes and RAxML. For her Astronomy research, she learned community specific RADEX and Python wrappers. Relevant coursework included a Java course and Observational Astronomy (with a focus on Python and Astropy). Notably, she has completed the Hackbright Software Engineering bootcamp with the skills for a career in full stack including Python, JavaScript, HTML, CSS, SQL, Flask, jQuery, Bootstrap, Jinja, React, and more.</p>
+            <a href="https://www.flaticon.com/free-icons/monstera-leaf" title="monstera leaf icons">Monstera leaf icons created by Roksana Beczarska - Flaticon</a>
             <Social />
             </div>
             )
