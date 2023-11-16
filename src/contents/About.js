@@ -35,6 +35,11 @@ class About extends Component {
             <p>When her childhood dream job of Interplanetary Stewardess (for traveling to vacation homes on different planets) was still not available in time, Alix decided to pursue scientific interests in the fields of biology and astronomy at the University of Hawaiʻi at Mānoa. From conducting analytical research on plant microscope slides, to conducting research on data for the evolution of distant galaxies, Alix fell in love with the computer science aspect of her work. While her dream position working in space tourism is still yet to be created, Alix is determined to shoot for stars by developing a career in the field of Software Engineering combining the skills from her past to creative problem solve for her future.
             </p>
             <br></br>
+            <h4>Expereince</h4>
+            <h3>Software Engineer I  March 2023-September 2023</h3>
+            <p>mhm</p>
+            <h3>Production Support Engineer</h3>
+            <p>mhm</p>
             <h4>Tech Experience</h4>
             <p>For her Biology research projects, Alix learned R and the programs RevBayes and RAxML. For her Astronomy research, she learned community specific RADEX and Python wrappers. Relevant coursework included a Java course and Observational Astronomy (with a focus on Python and Astropy). Notably, she has completed the Hackbright Software Engineering bootcamp with the skills for a career in full stack including Python, JavaScript, HTML, CSS, SQL, Flask, jQuery, Bootstrap, Jinja, React, and more.</p>
             <Social />
