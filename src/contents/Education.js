@@ -27,6 +27,7 @@ class Education extends Component {
             <ColoredLine />
             <img src={hb} alt="HB" className="logo"></img>
             <Widecard title="Certificate in Software Engineering" where="Hackbright Academy" from="February" to="May 2021"/>
+            <p>Recipient of the Phenomal Woman Scholarship</p>
             <ColoredLine />
             <img src={uh} alt="UH" className="logo"></img>
             <Widecard title="BS Biology | Minor Astronomy" where="University of Hawaiʻi at Mānoa" from="2016" to="2020"/>

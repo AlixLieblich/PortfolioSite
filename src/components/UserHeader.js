@@ -18,7 +18,7 @@ class UserHeader extends Component {
             </a>
             <h4>Coding in the San Francisco Bay Area</h4>
             <h4>2021 Hackbright Academy Graduate</h4>
-            <h5>University of Hawaiʻi at Mānoa Biology/ Astronomy graduate following passion for computer science.</h5>
+            <h5>Following passion for software development.</h5>
             </div>
             </div>
             </div>
